@@ -1,5 +1,3 @@
-import * as uuid from 'uuid/v1';
-
 import { Injectable, NotFoundException } from '@nestjs/common';
 
 import { CreateTaskDto } from './dto/create-taks.dto';
